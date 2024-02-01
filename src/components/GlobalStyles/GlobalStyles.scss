@@ -1,0 +1,25 @@
+@import 'normalize.css';
+@import url('https://use.typekit.net/xxh3jsg.css');
+
+:root {
+  --primary-color: #ef2a50;
+  --black-color: #000;
+  --defaultLayout-header-height: 60px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.6rem;
+}
